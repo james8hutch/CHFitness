@@ -1,4 +1,12 @@
 
+.logo {
+    height: 100px;       /* adjust size as needed */
+    margin-right: 1rem; /* space between logo and site title */
+    vertical-align: middle;
+}
+header img.logo {
+    display: inline-block;
+}
 body {
     margin: 0;
     font-family: Arial, sans-serif;
